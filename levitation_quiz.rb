@@ -1,4 +1,4 @@
-user_response = ""
+user_response
 
 def levitation_quiz
   until user_response == "Wingardium Leviosa"
